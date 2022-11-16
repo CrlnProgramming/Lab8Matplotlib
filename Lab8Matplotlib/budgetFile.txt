@@ -1,0 +1,17 @@
+Alice,$62.12
+
+Bob,$40.34
+
+Carol,$46.69
+
+Dave,$37.79
+
+Edith,$95.39
+
+Frank,$32.87
+
+Gertrude,$29.13
+
+Hannah,$24.21
+
+Ingrid,$91.19

@@ -1,0 +1,13 @@
+Apple,$1.55
+
+Banana,$5.72
+
+Carrot,$3.29
+
+Dragon Fruit,$4.74
+
+Eggs,$0.34
+
+Hamburger Buns,$1.87
+
+Ice Pops,$0.45
